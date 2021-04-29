@@ -4,5 +4,5 @@ This project will serve as the portfolio of all the work to come in this bootcam
 
 ## Deployed Site
 ```md
-![Portfolio](https://ashquinn.github.io/about_me/)
+(https://ashquinn.github.io/about_me/)
 ```
