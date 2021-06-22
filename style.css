@@ -103,8 +103,11 @@ color: white;
     margin: 1em;
 }
 
-.work p{
-    /* background:#ffffff; */
+.projectList {
+    padding: 5px
+}
+
+.box{
     padding: 1em;
     border-right: solid;
     border-color: #D84745;
@@ -116,6 +119,10 @@ color: white;
 } */
 
 .subheading2{
+    padding: 1em;
+    border-right: solid;
+    border-color: #D84745;
+    border-radius: 1em;
     grid-row: 1/6;
     grid-column: 1/2;
     background: #eee;
@@ -195,18 +202,26 @@ color: white;
     grid-row: 3/6;
     background-image: url(images/scheduler2.png);
     background-size: cover;
-    /*grid-column: 2/2.5;
+    /*grid-column: 2/2.5;*/
 }  
-/*
-.box5 {align-self: start;
-    justify-self: end;
-    grid-row: 4/5;
-    grid-column: 2.5/3;
+ 
+.box6 {
+    /* align-self: start;
+    justify-self: end;*/
+    grid-row: 6/8;
+    background-image: url(images/REAMDE_Generator1.png);
+    background-size: cover;
+    /*grid-column: 2.5/3; */
+}  
+
+.box5 {
+    /* align-self: start;
+    justify-self: end;*/
+    grid-row: 6/8;
+    grid-column: 1/3;
+    background-image: url(images/team_manage_sys.png);
+    background-size: cover
 } 
-*/
-}
-
-
 
 
 footer{
